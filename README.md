@@ -16,7 +16,7 @@ For this Project I have build a *Face recogniton using Facent* to recognize the 
   
 I am able to get the model to predict with an accuracy of 90% after minimal tuning. 
 
-![](Screenshot (47).png)
+![](Screenshot (49).png)
 
 ## [Project 3: Sentiment analysis using LSTM](https://github.com/nikita10110/sentimentanalysis)
 - Used the *Kaggle IMBN movies reviews dataset*.
