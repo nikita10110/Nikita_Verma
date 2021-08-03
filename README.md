@@ -32,5 +32,8 @@ I am able to get the model to predict the strength of the password.
 ### [1. Data Science intern at cureya](https://www.cureya.in/)
 *june23,2021- july27,2021*
 
+In the internship, I have worked on different project. The final project was to develop *Disease Predictor* an api using Machine Learning and Data Science. My part of work  was to develop the back hand part where using the five symptoms that user entered to predict the diease the person may be suffering. For the purpose i  have used the various machine learning algorithms to determine the disease the person  may be suffering. 
+
+
 
 
