@@ -8,7 +8,7 @@ To detect an face from the image, I have applied *Haar Cascade model*. Once the 
 
 I am able to get the model to predict with 90% accuracy after minimal tuning. For most of the cases this would meet the requirement. 
 
-![  ](Screenshot (49).png)
+![  ](https://github.com/nikita10110/Nikita_Verma/blob/1b4089c1dbe256be4a5e6fdfa1fb063561fe2fec/Screenshot%20(49).png)
 
 
 ## [Project2: Face Recognition using Facenet](https://github.com/nikita10110/ml_projects/tree/master/face_recognition_using_facenet)
