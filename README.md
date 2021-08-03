@@ -22,4 +22,9 @@ I am able to get the model to predict with an accuracy of 90% after minimal tuni
 
 I am  able to get the model to predict the sentiment of the review whether it is a positive or negative.
 
+## [Project 4: Password Strength analysis](https://github.com/nikita10110/password_strength_nlp)
+For this project I have used the dataset that contains various password which are of different strength. This model can used in different fields example while registering where we required to create a account and set password. We can use it to determine whether the password is of weak, strong, medium strength. So that the account password cannot be cracked and is *safe* .
+
+I am able to get the model to predict the strength of the password. 
+
 
