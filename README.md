@@ -10,7 +10,7 @@ I am able to get the model to predict with 90% accuracy after minimal tuning. Fo
 
 ## [Project2: Face Recognition using Facenet](https://github.com/nikita10110/ml_projects/tree/master/face_recognition_using_facenet)
 For this Project I have build a *Face recogniton using Facent* to recognize the person in the image. For the model i have used the *inceptionresent network* which is pretrained on vgg-16 dataset. I have performed some hypertuning like removing the end layers, adding the layers according to the rquirements, hypertuning learning rate.
-`def get_model():
+``def get_model():
   model_ft = InceptionResnetV1(pretrained='vggface2', classify=False, num_classes = len(class_names))
   layer_list = list(model_ft.children())[-5:]
   model_ft = nn.Sequential(*list(model_ft.children())[:-5])
@@ -27,5 +27,6 @@ For this Project I have build a *Face recogniton using Facent* to recognize the 
   device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
   print(device)
   model_ft = model_ft.to(device)
-  return model_ft`
+  return model_ft``
 I am able to get the model to predict with an accuracy of 90% after minimal tuning. 
+`print(hello)`
