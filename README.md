@@ -39,6 +39,8 @@ I am able to get the model to predict the strength of the password.
 
 In the internship, I have worked on different project. The final project was to develop *Disease Predictor* an api using Machine Learning and Data Science. My part of work  was to develop the back hand part where using the five symptoms that user entered to predict the diease the person may be suffering. For the purpose i  have used the various machine learning algorithms to determine the disease the person  may be suffering. 
 
+![](https://github.com/nikita10110/Nikita_Verma/blob/4a488a1e85d8fd00e049f5ce2e6680b14a1dedef/Screenshot%20(51).png)
+
 
 
 
