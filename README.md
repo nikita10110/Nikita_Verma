@@ -1,4 +1,5 @@
 *Data Science Enthusiast* 
+## Projects
 ## [Project1: Face Recognition using LBPHF Recognizer](https://github.com/nikita10110/ml_projects/tree/master/face_recogniton_using_LBPH)
 For this project I have build a *Face recognizer using LBPHF* to identify the face in the image. This could be useful for the person in different fields. For example if we train our model on the dataset of company employee and when we give an image and try to recognize the person if he\she company employee or not. This is underlying model for building something with capabilities.
 
