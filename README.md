@@ -27,4 +27,9 @@ For this project I have used the dataset that contains various password which ar
 
 I am able to get the model to predict the strength of the password. 
 
+## Experience
+### [1. Data Science intern at cureya](https://www.cureya.in/)
+*june23,2021- july27,2021*
+
+
 
