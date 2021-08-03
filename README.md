@@ -1,4 +1,4 @@
-*Data Science Enthusiast* 
+*Data Science Enthusiast* / *CS Major*
 
 ## Projects
 ## [Project1: Face Recognition using LBPHF Recognizer](https://github.com/nikita10110/ml_projects/tree/master/face_recogniton_using_LBPH)
