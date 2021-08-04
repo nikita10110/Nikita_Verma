@@ -27,6 +27,7 @@ I am able to get the model to predict with an accuracy of 90% after minimal tuni
 
 
 
+![  ](https://github.com/nikita10110/Nikita_Verma/blob/f079719343fc4333862edf2a3c47656eff33c41a/project.png)
 I am  able to get the model to predict the sentiment of the review whether it is a positive or negative.
 
 ## [Project 4: Password Strength analysis](https://github.com/nikita10110/password_strength_nlp)
